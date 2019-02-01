@@ -1,0 +1,201 @@
+
+.container-fluid
+{
+	padding: 4%;
+	padding-top: 0;
+
+}
+
+.row .card 
+{
+	transition: 0.3s;
+
+}
+
+.row .card:hover 
+{
+	transition: 0.3s;
+	background-color: #18191c;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.row .col-md-6 
+{
+/*	transition: transform 0.5s;
+*/	transition: 0.3s;
+
+}
+
+.row .col-md-6:hover 
+{
+	/*transform: scale(1.02);*/
+	transition: 0.3s;
+}
+/*.row .col-md-6  .card-img-overlay
+{
+	margin-top:37%;
+}*/
+.row .col-md-6 p
+{
+	color: #e9e9ea;
+}
+.row p
+{
+	font-size: 14px;
+	color: #8c8781;
+
+}
+
+.teste > .video{position: absolute; left: 48%; top: 15%; 
+	 width:558px; height: 313.88px; box-shadow: 1px 5px 10px #1b1b1bd9;}
+
+.video-card video
+{
+	height: 100%;
+}
+
+.text-carousel
+{
+	width: 30%;
+	height: 100%
+}
+
+
+	.dropdown:hover>.dropdown-menu {
+  	display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.text-feature a
+{
+	color: #fff;
+	font-size: 1.1em;
+	margin-left: 6%;
+	text-decoration: none;
+}
+
+#feature-a
+{
+	color: #28a745;
+	margin-left: 17px;
+}
+
+.text-slide p
+{
+	margin: 0;
+	margin-bottom: 1px;
+	color: #e9e9ea;
+}
+
+.text-slide h6
+{
+	color: #d3d4d6;
+	margin-bottom: 10px;
+}
+.text-slide
+{
+	margin-left:  -10%;
+	margin-top: 30%;
+}
+.btn-carousel
+{
+	margin-top: 5%;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: #26272c;
+}
+
+.hr-feature
+{
+	margin-left: 4%;
+	margin-right: 4%;
+	background-color: #6b6b6b;
+	margin-top: 10px;
+}
+
+.text-footer h6
+{
+	color: #dcdbdc;
+	margin-top: 25px;
+}
+
+footer
+{
+	height: 100%;
+	background-color: #18191c;
+}
+
+footer img
+{
+	margin-top: 6%;
+	margin-right: 5%;
+}
+
+.text-footer p
+{
+	margin: 0;
+	font-size: 14px;
+
+}
+.text-footer a
+{
+	transition: 0.3s;
+	text-decoration: none;
+	color: #8c8781;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.text-footer a:hover
+{
+	transition: 0.3s;
+	color: #f1f4f8;
+	text-shadow: 1px 5px 10px #000;
+}
+.text-footer h6
+{
+	font-size: 15px;
+	margin-top: 35%;
+}
+.joystick
+{
+	margin-top: -302px; 
+	margin-left: 41%;
+}
+
+.footer-2 h4
+{
+	color: #dcdbdc;
+	margin-bottom: 5%;
+}
+
+#text-fn
+{
+	color: #dcdbdc;
+	margin-top: 80px;
+}
+
+#text-fn p
+{
+	color: #8c8781;
+	margin-bottom: 13%;
+}
+
+.card-img-top
+{
+	opacity: 1;
+	transition: 0.3s;
+}
+
+.row a
+{
+	text-decoration: none;
+}
